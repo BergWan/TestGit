@@ -2,6 +2,6 @@ package com.wan.git;
 
 public class Apple { 
 	public static void main(String[] args) {
-		System.out.println("这里是 TestGit2===ToBeNo1  第三次");
+		System.out.println("TestGit2 by Branch hot_fix first edit");
 	}
 }
